@@ -1,0 +1,14 @@
+C:\Users\justus\Documents\consoole app(vs code )\bin\Debug\net10.0\consoole app(vs code ).exe
+C:\Users\justus\Documents\consoole app(vs code )\bin\Debug\net10.0\consoole app(vs code ).deps.json
+C:\Users\justus\Documents\consoole app(vs code )\bin\Debug\net10.0\consoole app(vs code ).runtimeconfig.json
+C:\Users\justus\Documents\consoole app(vs code )\bin\Debug\net10.0\consoole app(vs code ).dll
+C:\Users\justus\Documents\consoole app(vs code )\bin\Debug\net10.0\consoole app(vs code ).pdb
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).AssemblyInfoInputs.cache
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).AssemblyInfo.cs
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).csproj.CoreCompileInputs.cache
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).dll
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\refint\consoole app(vs code ).dll
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).pdb
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\consoole app(vs code ).genruntimeconfig.cache
+C:\Users\justus\Documents\consoole app(vs code )\obj\Debug\net10.0\ref\consoole app(vs code ).dll
