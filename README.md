@@ -17,4 +17,3 @@ Beskrivning: Bygg en portfolio-sida i MVC med en startsida där du presenterar d
 3-Lektion 1, övning 3:träningsdagbok
 Beskrivning Skapa en träningsdagbok-sida med hjälp av MVC. Användare ska kunna lägga till övningar (t.ex. marklyft eller löpning) och övningstillfällen. För varje övning ska användaren kunna lägga till övningens namn och beskrivning. För varje övningstillfälle ska användaren kunna lägga till ett datum, välja en övning och skriva hur mycket de lyfte eller sprang. (t.ex. 2022-08-12, löpning, 5km). 
 4 Lektion 2, övning 1:
-
